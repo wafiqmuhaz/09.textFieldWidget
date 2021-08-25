@@ -1,4 +1,3 @@
-import 'package:allone/08.cardWidget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
